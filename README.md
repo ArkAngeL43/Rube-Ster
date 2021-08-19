@@ -1,13 +1,21 @@
 # Rube-Ster
 a web recon framework built around ruby and rust 
     
+    installs ==> 
+    git clone 
+    
+    
     Langs used :: rust, python, rust, shell script 
     
     summary: rube-ster or Rube-Rabbit is a penetration testing 
     framework built with ruby,rust, python, and shell scripting 
     
     
-    
+    NOTE ==> when you want to scan a website go into the scrape.rb file 
+    go to where it shows the www.hulu.com as an example replace that 
+    with the WWW link of the website, note this is a little buggy the 
+    SITE MUST USE IPV4 as this is how it connects and works, working 
+    on finding a library. or i might recreate in rust 
     
     ______________________ABOUT___________________________
     well for one let m,e introduce you to Rube-rabbit
