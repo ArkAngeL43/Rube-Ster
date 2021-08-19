@@ -2,8 +2,16 @@
 a web recon framework built around ruby and rust 
     
     installs ==> 
-    git clone 
     
+    git clone https://github.com/ArkAngeL43/Rube-Ster.git
+    
+    cd Rube-Ster
+    
+    chmod +x ./install.sh 
+    
+    ./install.sh 
+    
+    ruby rube-ster.rb
     
     Langs used :: rust, python, rust, shell script 
     
