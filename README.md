@@ -1,6 +1,15 @@
 # Rube-Ster
 a web recon framework built around ruby and rust 
-______________________ABOUT___________________________
+    
+    Langs used :: rust, python, rust, shell script 
+    
+    summary: rube-ster or Rube-Rabbit is a penetration testing 
+    framework built with ruby,rust, python, and shell scripting 
+    
+    
+    
+    
+    ______________________ABOUT___________________________
     well for one let m,e introduce you to Rube-rabbit
     or rubster as i like to call this framework, well  
     Rube-Rabbit is a penetration testing scanner and recon
@@ -12,6 +21,9 @@ ______________________ABOUT___________________________
     coming and even being built in rube-rabbit. in the future
     there will come to be more scripts for scanning, attacking, 
     and maybe even some extra tweaks here and there 
+    
+    
+    
     _________________NEWS/TIPS_____________________________
     Rube-Rabbit or Rubester is a very brand new pentesting 
     and ethical hacking framework meaning it is still 
@@ -26,6 +38,9 @@ ______________________ABOUT___________________________
     the current library, further on i will search for any 
     repos or libs i can use to port scan websites with 
     IPAV6 socks and IPV4 socks. 
+    
+    
+    
     ____________________FEATURES/DO_________________________
     NO rubster is no god legend framework as it was just 
     an experiment that turned out to be something really 
