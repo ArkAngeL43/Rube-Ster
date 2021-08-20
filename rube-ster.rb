@@ -1,8 +1,13 @@
 require 'colorize' 
 require 'tty-spinner'
 
-puts " please wait! "
-system('sleep 4')
+system("clear")
+puts " please wait!.... "
+spinner = TTY::Spinner.new
+spinner = TTY::Spinner.new("[:spinner] Initializing...", format: :pulse_2)\
+spinner.auto_spin 
+sleep(5) 
+spinner.stop("Done!")
 system('clear')
 ############load the main script
 spinner = TTY::Spinner.new
